@@ -15,7 +15,7 @@ h1 {
 }
 /*Body*/
 table {
-    background-color:lightblue;
+    background-color: #116530;
     width:600px;
     margin:auto;
     border-collapse:collapse; 
@@ -30,7 +30,7 @@ td {
 }
 
 th,td{
-    border:1px solid #116530;
+    border:1px solid lightblue;
 }
 caption {
     caption-side:bottom;
